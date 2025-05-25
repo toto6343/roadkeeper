@@ -1,6 +1,5 @@
 # Roadkill Dashboard
 
-![Image](https://github.com/user-attachments/assets/591c96b8-85ee-4355-ac94-9375bbb25efb)
 ![Image](https://github.com/user-attachments/assets/cb8296a7-5637-4bff-9964-d8c549077466)
 ![Image](https://github.com/user-attachments/assets/e709a970-6983-4a2f-b301-8f7af9a52303)
 ![Image](https://github.com/user-attachments/assets/4f27f937-f4e0-4728-ab5c-7ab45c2f1a03)
