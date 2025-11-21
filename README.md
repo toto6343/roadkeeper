@@ -112,8 +112,7 @@ RoadKeeper는 도로 위 사고로 인한 야생동물 사망(로드킬) 데이�
 
 ## 🖼️ 스크린샷
 
-![Image](https://github.com/user-attachments/assets/cb8296a7-5637-4bff-9964-d8c549077466)
-![Image](https://github.com/user-attachments/assets/e709a970-6983-4a2f-b301-8f7af9a52303)
+![로드킬 발생위치](https://github.com/user-attachments/assets/e709a970-6983-4a2f-b301-8f7af9a52303)
 ![Image](https://github.com/user-attachments/assets/4f27f937-f4e0-4728-ab5c-7ab45c2f1a03)
 ![Image](https://github.com/user-attachments/assets/fdd78282-5a41-48d1-ac1f-b1bf5c0ef005)
 ![Image](https://github.com/user-attachments/assets/9bd2606f-0e7c-4039-a8cd-16e0c8abe065)
